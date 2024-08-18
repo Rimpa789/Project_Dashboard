@@ -1,2 +1,2 @@
 flet==0.23.2
-pip freeze > requirements.txt
+
